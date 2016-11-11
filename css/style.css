@@ -1,0 +1,12 @@
+#sprite {
+  background: url("http://i.imgur.com/VgdZLz0.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 320px;
+  position: relative;
+  left: 0px;
+  top: 100px;
+  transition: top 3s linear;
+  -webkit-transition: top 3s linear;
+}
